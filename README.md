@@ -6,8 +6,8 @@ This repository contains two Jupyter notebooks for stock price prediction using 
 
 ## Contents
 
-- [`LSTM-model.ipynb`](LSTM.ipynb): Deep learning approach using LSTM for time series forecasting.
-- [`ARIMA-model.ipynb`](ARIMA.ipynb): Statistical approach using ARIMA for time series forecasting.
+- [`LSTM.ipynb`](LSTM-model.ipynb): Deep learning approach using LSTM for time series forecasting.
+- [`ARIMA.ipynb`](ARIMA-model.ipynb): Statistical approach using ARIMA for time series forecasting.
 
 ---
 
